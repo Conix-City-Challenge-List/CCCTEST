@@ -27,7 +27,7 @@
            "user": "K1tty",
             "link": "https://www.youtube.com/watch?v=mrZismuswYs",
             "percent": 100,
-			"enjoyment": 5
+			"enjoyment": 5,
 			"hz": 240	
             
 
@@ -38,7 +38,7 @@
             "user": "StaringCat",
             "link": "https://www.youtube.com/watch?v=BQTIHnChgkg",
             "percent": 100,
-            "enjoyment": 5
+            "enjoyment": 5,
 		    "hz": 60	
 
           }
