@@ -16,7 +16,9 @@
             "user": "lucasokc",
             "link": "https://www.youtube.com/watch?v=JxOx7Rop7qk",
             "percent": 100,
-		    "enjoyment": 5 
+		    "enjoyment": 5,
+            "hz": 240		
+		
             
            
          },
@@ -26,6 +28,7 @@
             "link": "https://www.youtube.com/watch?v=mrZismuswYs",
             "percent": 100,
 			"enjoyment": 5
+			"hz": 240	
             
 
 
@@ -36,6 +39,7 @@
             "link": "https://www.youtube.com/watch?v=BQTIHnChgkg",
             "percent": 100,
             "enjoyment": 5
+		    "hz": 60	
 
           }
 	]
