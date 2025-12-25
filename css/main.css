@@ -1,14 +1,14 @@
 :root {
     color-scheme: dark;
-    --color-background: #f7f7f9;
-    --color-on-background: black;
+    --color-background: #1c1b1f;
+    --color-on-background: white;
     --color-background-hover: #27262c;
-    --color-on-background-hover: black;
+    --color-on-background-hover: white;
     --color-primary: #5d5e5e;
     --color-primary-disabled: #1f213c;
-    --color-on-primary: black;
+    --color-on-primary: white;
     --color-error: #de0000;
-    --color-on-error: black;
+    --color-on-error: white;
 }
 
 html,
