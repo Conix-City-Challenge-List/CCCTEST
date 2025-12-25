@@ -27,7 +27,7 @@ export default {
             <tr style="justify-content: center; align-items: center;">
                 <td><h3 class="tier-info" style="padding-bottom:0.5rem">Lowest enjoyment: {{ fetchLowestEnjoyment(list, level.difficulty) }}</h3></td>
             </tr>
-            <p style="padding-top:1.5rem">The levels {{ descending ? 'below' : 'above' }} are {{ ["beginner", "easy", "medium", "hard", "insane", "mythical", "extreme", "supreme", "ethereal", "legendary", "silent", "impossible"][level.difficulty] }} Challenges.</p>
+            <p style="padding-top:1.5rem">The levels {{ descending ? 'below' : 'above' }} are {{ ["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Supreme", "Ethereal", "Legendary", "Silent", "Impossible"][level.difficulty] }} Challenges.</p>
 
         </div>
     `,
