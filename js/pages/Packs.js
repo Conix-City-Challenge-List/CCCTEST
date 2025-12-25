@@ -74,16 +74,16 @@ export default {
                     <h2 v-if="!selectedPack.levels">Levels (5)</h2>
                     <p v-if="selectedPack.levels" class="type-body">
                         <template v-for="(level, index) in selectedPack.levels">
-                            <a class="director" :href="'https://laylist.pages.dev/#/level/' + level.path">{{ level.name }}</a>
+                            <a class="director" :href="'https://cctest-t1g.pages.dev/#//level/' + level.path">{{ level.name }}</a>
                             <span v-if="index < selectedPack.levels.length - 1">, </span>
                         </template>
                     </p>
-                    <p v-if="!selectedPack.levels && selectedPack.difficulty < 7"> Beat any 5 layouts in the {{ ["beginner", "easy", "medium", "hard", "insane", "mythical", "extreme"][selectedPack.difficulty] }} tier that are not in any other packs</p>
-                    <p v-if="!selectedPack.levels && selectedPack.difficulty >= 7"> Beat any 5 layouts in the supreme tier or above that are not in any other packs</p>
+                    <p v-if="!selectedPack.levels && selectedPack.difficulty < 7"> Beat any 5 challenges in the {{ ["beginner", "easy", "medium", "hard", "insane", "mythical", "extreme"][selectedPack.difficulty] }} tier that are not in any other packs</p>
+                    <p v-if="!selectedPack.levels && selectedPack.difficulty >= 7"> Beat any 5 challenges in the supreme tier or above that are not in any other packs</p>
                     <h2>Records ({{ selectedPack.records.length }})</h2>
                     <div class="pack-records">
                         <p v-for="record in selectedPack.records">
-                            <a class="director" :href="'https://laylist.pages.dev/#/leaderboard/user/' + record.toLowerCase().replaceAll(' ', '_')">{{ record }}</a>
+                            <a class="director" :href="'https://cctest-t1g.pages.dev/#/leaderboard/user/' + record.toLowerCase().replaceAll(' ', '_')">{{ record }}</a>
                         </p>
                     </div>
                 </div>
