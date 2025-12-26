@@ -57,7 +57,7 @@
 			"hz": 240,
             "enjoyment": 7
 					
-             },
+               },
                 {
              
             "user": "fede",
@@ -67,7 +67,7 @@
             "enjoyment": 6
 
 
-			 },
+			    },
                 {
              
             "user": "jiggit",
@@ -75,7 +75,7 @@
             "percent": 100,
 			"hz": 144,
             "enjoyment": 6.7
-					 },
+			    },
                 {
              
             "user": "Elaii",
@@ -84,7 +84,7 @@
 			"hz": 200,
             "enjoyment": 10
 
-					 },
+				},
                 {
              
             "user": "ChaseGD",
@@ -92,7 +92,7 @@
             "percent": 100,
 			"hz": 90,
             "enjoyment": 10
-						 },
+				 },
                 {
              
             "user": "PepsiUniverse",
@@ -100,7 +100,7 @@
             "percent": 100,
 			"hz": 144,
             "enjoyment": 9
-						 },
+				 },
                 {
              
             "user": "A7Xshin",
@@ -109,7 +109,7 @@
 			"hz": 240,
             "enjoyment": 1
 
-					 },
+				 },
                 {
              
             "user": "Zehmy",
@@ -117,7 +117,7 @@
             "percent": 100,
 			"hz": 60,
             "enjoyment": 5
-					},
+				},
                 {
              
             "user": "Garri",
@@ -126,7 +126,7 @@
 			"hz": 60,
             "enjoyment": 1
 
-						},
+				},
                 {
              
             "user": "mxlikgd",
@@ -134,7 +134,7 @@
             "percent": 100,
 			"hz": 60,
             "enjoyment": 2
-								},
+			    },
                 {
              
             "user": "wPawoff",
@@ -142,6 +142,7 @@
             "percent": 100,
 			"hz": 240,
             "enjoyment": 8
+
 					
           }
 	]
