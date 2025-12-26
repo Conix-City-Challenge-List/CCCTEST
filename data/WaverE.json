@@ -11,6 +11,13 @@
 	"difficulty": 5,
 	"enjoyment": 8,
 	"records": [
+		 {
+			"user": "PepsiUniverse",
+			"link": "https://www.youtube.com/watch?v=LEWArYbhygs",
+			"percent": 100,
+			"hz": 144,
+			"enjoyment": 8
+		 }
 
 
 
