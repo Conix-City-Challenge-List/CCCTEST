@@ -12,6 +12,15 @@
 	"enjoyment": 5.4,
 	"records": [
 
+		{
+    
+      "user": "hank182",
+			"link": "https://youtu.be/eKwTD0QZQkc",
+			"percent": 100,
+			"hz": 280,
+			"enjoyment": 6.2
+		}
+
 
 	]
 }
