@@ -12,6 +12,12 @@
 	"difficulty": 4,
 	"records": [
 
-		
+		{
+			"user": "Vacuumonmywall",
+            "link": "https://youtu.be/IAVHjiBn0jw",
+            "percent": 100,
+            "hz":60,
+		    "enjoyment":5
+		}
 	]
 }
