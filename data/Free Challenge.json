@@ -12,6 +12,13 @@
 	"difficulty": 5,
 	"records": [
 
-		
+		{
+    
+            "user": "jack356095",
+			"link": "https://youtu.be/lE99xlghQdE?si=Lnhlfg5_qouOsx_v",
+			"percent": 100,
+			"hz": 144,
+			"enjoyment": 6
+		  }
 	]
 }
