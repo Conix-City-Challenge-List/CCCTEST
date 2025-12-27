@@ -88,11 +88,32 @@
 			"enjoyment": 7
 						},	
 		{
-			"user": "Mred360 Condih",
+			"user": "Valkes",
 			"link": "https://www.youtube.com/watch?v=RfoaDf6HNu0",
 			"percent": 100,
 			"hz": 144,
 			"enjoyment": 4
+								},	
+		{
+			"user": "StaringCat",
+			"link": "https://youtu.be/osTqJePq9jw?si=DVBDzS1IlWUp7Ok1",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 2
+							},	
+		{
+			"user": "Ilovedadashin",
+			"link": "https://youtu.be/oH2YLC1X3uM",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 4
+								},	
+		{
+			"user": "tyuu6ihn",
+			"link": "https://youtu.be/rB4RYuCyQjY",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 10
           }
  
 			
