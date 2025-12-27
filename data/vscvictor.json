@@ -10,6 +10,15 @@
 	"difficulty": 9,
 	"records": [
 
+
+		  {
+            "user": "happiguy47",
+            "link": "https://www.youtube.com/watch?v=G2sXvUQYHsw",
+            "percent": 100,
+            "hz": 910,
+		    "enjoyment": 6.5
+		 }
+
 	]
 }
 
