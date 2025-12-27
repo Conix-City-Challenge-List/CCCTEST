@@ -19,6 +19,20 @@
 			"percent": 100,
 			"hz": 480,
 			"enjoyment": 0
+				},
+		{
+            "user": "peppersway",
+			"link": "https://youtu.be/OzJJ_7LLzV0?si=DuJxxe7dppl-Lm-F",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 5.36
+		},
+		{
+            "user": "vipexx",
+			"link": "https://youtu.be/m48mfcPuOSg",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": -2
 
 		}
 
