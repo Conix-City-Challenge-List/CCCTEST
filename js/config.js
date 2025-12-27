@@ -38,7 +38,7 @@ export function score(rank, difficulty, percent, minPercent, list) {
 
     // EXPONENTIAL FUNCTION CONFIGURATION
     // Change these values to edit the exponential function.
-    const maxExpScore = 750; // The maximum score given by the exponential function.
+    const maxExpScore = 500; // The maximum score given by the exponential function.
     const minExpScore = 131; // The minimum score given by the exponential function.
     const scoreDivider = 130 // The maximum score given by the linear function.
     const curveBuff = 0.4; // Increase this value to steepen the curve of the exponential
