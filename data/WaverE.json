@@ -154,7 +154,20 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 8
-
+							},	
+		{
+			"user": "Ilovedadashin",
+			"link": "https://youtu.be/wQCh2TwG4aM",
+			"percent": 100,
+			"hz": 360,
+			"enjoyment": 7
+									},	
+		{
+			"user": "tyuu6ihn",
+			"link": "https://youtu.be/J1-7L1FUkG4",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 6
 
 			
 		}
