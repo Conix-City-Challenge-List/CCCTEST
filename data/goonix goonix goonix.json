@@ -258,6 +258,13 @@
 			"percent": 100,
 			"hz": 60,
 			"enjoyment": 10
+			},
+		{
+			"user": "cookie",
+			"link": "https://youtu.be/YXlThsHWL1M?si=EUGEPSAlZj5XtOcG",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 10
 			
 		}
 	]
