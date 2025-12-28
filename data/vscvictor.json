@@ -31,6 +31,13 @@
             "percent": 100,
             "hz": 240,
 		    "enjoyment": 7
+		 },
+		{
+            "user": "Delta",
+            "link": "https://www.youtube.com/watch?v=0tfz_gwtAyA",
+            "percent": 100,
+            "hz": 240,
+		    "enjoyment": 10
 		 }
 
 	]
