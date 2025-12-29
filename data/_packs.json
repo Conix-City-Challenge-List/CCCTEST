@@ -9,10 +9,6 @@
 		]
 	},
 	{
-		"name": "Beginner Pack",
-		"difficulty": 0
-	},
-	{
 		"name": "Easy Pack",
 		"difficulty": 1
 	},
