@@ -40,11 +40,19 @@
 		},
 		{
 			
-			"user": "Cookie",
+			"user": "cookie",
             "link": "https://youtu.be/FCYiIzZkYdY?si=Xv_txbWr7XJyBplQ",
             "percent": 100,
             "hz":120,
 		    "enjoyment":3
+			},
+		{
+			
+			"user": "vivid",
+            "link": "https://youtu.be/pwQtrZYXSDw?si=dskVU1zdXMhrXp8_",
+            "percent": 100,
+            "hz":480,
+		    "enjoyment":6
 
 			
 		}
