@@ -12,7 +12,16 @@
 	"enjoyment": 8,
 	"records": [
 
+		{
+			
+			"user": "TostGD",
+            "link": "https://www.youtube.com/watch?v=kXVtU-PK044",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":6.5
 
+			
+		}
 
   ]
 
