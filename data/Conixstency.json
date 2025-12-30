@@ -25,8 +25,14 @@
             "percent": 100,
             "hz":240,
 		    "enjoyment":7
+	    },
+		{
+		    "user": "TostGD",
+            "link": "https://www.youtube.com/watch?v=-sdGKg2FUbI",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":6.5
 	    }
-
 
   ]
 
