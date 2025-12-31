@@ -37,6 +37,13 @@
             "percent": 100,
             "hz":240,
 		    "enjoyment": 2
+		},
+		{
+			"user": "cookie",
+            "link": "https://youtu.be/mEkmwEdijb8?si=k0lcA1LeY9q6L-12",
+            "percent": 100,
+            "hz":120,
+		    "enjoyment": -100
 		}
 
 			
