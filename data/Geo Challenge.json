@@ -18,9 +18,7 @@
             "link": "https://youtu.be/1aOPeHDfdTs",
             "percent": 100,
             "hz":360,
-		    "enjoyment":0
-
-			
+		    "enjoyment":0	
 		},
 		{
 			
@@ -29,6 +27,14 @@
             "percent": 100,
             "hz":120,
 		    "enjoyment":0
+		},
+		{
+			
+			"user": "choppa",
+            "link": "https://youtu.be/NmZCz1er-MA?si=gCswXXs2eYr3P3Wf",
+            "percent": 100,
+            "hz":240,
+		    "enjoyment":6.7
 
 			
 		}
